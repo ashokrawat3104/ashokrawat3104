@@ -27,7 +27,7 @@
 ## 🛠️ Technical Skills
 
 <p align="center" style="background: #f7f7fa; border-radius: 12px; padding: 12px;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,node.js,express,php,mysql,mongodb,git,github" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,node,express,php,mysql,mongodb,git,github" height="32" />
 </p>
 
 - **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, MERN Stack, PHP  
