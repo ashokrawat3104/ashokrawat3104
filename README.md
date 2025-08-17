@@ -27,7 +27,7 @@
 ## 🛠️ Technical Skills
 
 <p align="center" style="background: #f7f7fa; border-radius: 12px; padding: 12px;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,node,express,php,mysql,mongodb,git,github" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,php,mysql,mongodb,git,github" height="32" />
 </p>
 
 - **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, MERN Stack, PHP  
@@ -69,6 +69,41 @@
   </ul>
 </div>
 
+<!-- Squad-League Project -->
+<div align="center" style="background: #e6f7ff; border-radius: 12px; padding: 18px; margin-bottom: 20px;">
+  <h3>
+    <a href="https://squad-league.vercel.app" target="_blank">Squad-League — Esports Tournament Platform</a>
+  </h3>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <br><br>
+  <b>Full-stack platform to organize weekly Free Fire esports tournaments.</b>
+  <ul align="left">
+    <li>🎮 Team registration & player management</li>
+    <li>🗓️ Match scheduling with live updates</li>
+    <li>🔐 Authentication system & player dashboards</li>
+    <li>📢 Admin controls for announcements and stats</li>
+  </ul>
+</div>
+
+<!-- Portfolio Website -->
+<div align="center" style="background: #fff5e6; border-radius: 12px; padding: 18px; margin-bottom: 20px;">
+  <h3>
+    <a href="https://ashokrawat3104.github.io" target="_blank">Personal Portfolio Website</a>
+  </h3>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
+  <br><br>
+  <b>My personal portfolio showcasing projects, skills, and achievements.</b>
+  <ul align="left">
+    <li>🖥️ Built with React.js and Tailwind CSS</li>
+    <li>📱 Fully responsive and mobile-friendly</li>
+    <li>🔗 Integrated GitHub and project demo links</li>
+  </ul>
+</div>
 ---
 
 ## 🎯 Interests
