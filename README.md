@@ -30,10 +30,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,mysql,git,github" height="32" />
 </p>
 
-- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, PHP  
-- **Database:** MySQL, SQL  
+- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, MERN Stack, PHP  
+- **Database:** MySQL, MongoDB  
 - **Version Control:** Git, GitHub  
-- **Tools & Platforms:** WAMP  
+- **Tools & Platforms:** WAMP
 - **Others:** Responsive Design, Debugging, Cross-Browser Testing
 
 ---
