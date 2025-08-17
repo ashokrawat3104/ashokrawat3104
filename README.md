@@ -22,7 +22,6 @@
 - 🧠 Always learning and experimenting with new tools and frameworks.
 - 🤝 Eager to collaborate, share knowledge, and contribute to open source.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -36,15 +35,11 @@
 - **Tools & Platforms:** WAMP
 - **Others:** Responsive Design, Debugging, Cross-Browser Testing
 
----
-
 ## 🚩 Highlights
 
 - 🏆 **Awarded 'A' Grade:** Diploma in Computer Science & Engineering (8 CGPA)
 - 🛠️ **Project Lead:** Uttarakhand Tour & Tourism Website (see below)
 - 🗺️ **Curious Explorer:** Always searching for new challenges and solutions
-
----
 
 ## 📌 Featured Project
 
@@ -104,7 +99,7 @@
     <li>🔗 Integrated GitHub and project demo links</li>
   </ul>
 </div>
----
+
 
 ## 🎯 Interests
 
