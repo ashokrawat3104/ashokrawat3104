@@ -58,14 +58,16 @@
 
 ### 🔥 Contribution Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokrawat3104&theme=react&hide_border=true" height="170" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokrawat3104&theme=react&hide_border=true" />
 </p>
+
 
 ### 🚀 Profile Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashokrawat3104&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokrawat3104&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashokrawat3104&show_icons=true&theme=react&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokrawat3104&layout=compact&theme=react&hide_border=true" />
 </p>
+
 
 ---
 
